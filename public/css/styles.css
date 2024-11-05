@@ -57,3 +57,25 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+div {
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.8em;
+    color: #333;
+}
+
+p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+img {
+    max-width: 75%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
